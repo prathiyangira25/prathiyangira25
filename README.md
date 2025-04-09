@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👩‍💻 Prathiyangira Devi
 
-<!--
-**prathiyangira25/prathiyangira25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **AI/ML Enthusiast** | 💻 **Software Developer** | 🌐 **Full Stack Developer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Summary
+
+An emerging AI/ML enthusiast and software developer with a knack for full-stack development, database management, and application design. A fast learner who enjoys solving real-world problems through code and collaboration.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages
+- Python 🐍, C, C++, Java ☕
+- HTML5, CSS3, JavaScript ⚡, Dart
+
+### 🌐 Full Stack Development
+- React (beginner), Node.js 🌿, Express.js
+- Firebase 🔥, SQLite, MySQL, Oracle SQL*Plus
+
+### 🤖 AI / ML / Data
+- Machine Learning, Deep Learning, Neural Networks 🧠
+- OpenCV 👁️, YOLO 🎯, TensorFlow 📦
+- Object Detection, Image Processing
+
+### 🛠️ Tools & Platforms
+- Git, GitHub 🐙, Figma 🎨, Flutter 📱
+- Arduino, Raspberry Pi, ESP32 ⚙️
+
+---
