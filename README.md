@@ -30,3 +30,4 @@ An emerging AI/ML enthusiast and software developer with a knack for full-stack 
 - Arduino, Raspberry Pi, ESP32 ⚙️
 
 ---
+⭐ _Always curious, always building._
